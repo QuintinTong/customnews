@@ -1,0 +1,22 @@
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.navbar {
+  margin-bottom: 20px;
+}
+
+.votes, .vote {
+ display:inline-block;
+}
+.vote {
+ vertical-align:middle;   
+}
+
+button {
+    border : 0px;
+    -moz-border-radius:7px;
+    -webkit-border-radius:7px;
+     border-radius:7px;
+}
